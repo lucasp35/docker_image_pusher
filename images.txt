@@ -1,2 +1,3 @@
 mysql
 timescale/timescaledb:latest-pg14
+redis
